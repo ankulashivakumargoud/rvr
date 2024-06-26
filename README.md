@@ -1,2 +1,2 @@
-simple additioncode in python
+simple additioncode in c
 
